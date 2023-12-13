@@ -1,0 +1,10 @@
+jwt:
+  key: dhfiaorgoiaehroighaeoirgh
+  duration: 30000
+
+spring:
+  cache:
+    type: redis
+  redis:
+    host: localhost
+    port: 7001
